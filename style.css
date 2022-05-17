@@ -23,7 +23,6 @@ input {
 
 .travel_maindiv img {
     width: 100%;
-
 }
 
 .travel_maindiv hr {
@@ -66,4 +65,8 @@ input {
 
 #book hr {
     margin-bottom: 10px;
+}
+
+img {
+    margin-left: 90%;
 }
